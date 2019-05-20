@@ -116,7 +116,7 @@
 
 		@include media-breakpoint-down (lg) {
 			font-size:45px;
-		}	
+		}
 
 		@media ( max-width:414px ) {
 			font-size:40px;
@@ -138,7 +138,7 @@
 	border:1px solid transparent;
 	color:$black;
 	padding-left: 40px;
-	padding-right: 40px;	
+	padding-right: 40px;
 	border-radius:50px;
 	&:hover{
 		border:1px solid $white;
@@ -174,7 +174,7 @@
 	}
 	p{
 		span{
-			color:#000;		
+			color:#000;
 			font-weight:400;
 		}
 	}
@@ -216,7 +216,7 @@
 	background-color: $white;
 	box-shadow: 0px 10px 30px 0px rgba(182, 136, 52, 0.2);
 	border-radius:10px;
-	padding:30px 30px;	
+	padding:30px 30px;
 	margin-bottom:30px;
 	.title-div{
 		padding-bottom:20px;
@@ -238,7 +238,7 @@
 
 .gallery-area{
 	img{
-		margin-bottom:30px;	
+		margin-bottom:30px;
 		width:100%;
 	}
 }
@@ -266,7 +266,7 @@
 		.checked {
 		    color: orange;
 		}
-	}	
+	}
 }
 
 .counter-row{
@@ -317,8 +317,8 @@
 	.post-date{
 		color:$black;
 		font-size:14px;
-		font-weight: 500;		
-	}	
+		font-weight: 500;
+	}
 }
 
 //--------- End review Area -------------//
@@ -331,6 +331,7 @@
 		color:$white;
 		padding-top:220px;
 		background:url(../img/footer-bg.jpg) center;
+		// background: rgba(76, 175, 80, 0.3);
 		background-size:cover;
 		h6{
 			color:#fff;
@@ -340,7 +341,7 @@
 		}
 
 	}
-	
+
 	.copy-right-text{
 		i,a{
 			color:$primary-color;
@@ -355,13 +356,13 @@
 			padding-right:25px;
 			@include transition();
 			&:hover{
-			
+
 				i{
 						color:$primary-color;
 				}
 			}
 		}
-		
+
 		i{
 			color:#cccccc;
 			@include transition();
@@ -456,15 +457,15 @@
 			margin-bottom:30px;
 		}
 	}
-		
+
 
 
 		@media(max-width:800px){
 			.social-widget{
 				margin-top:30px;
-			}			
+			}
 		}
-		
+
 
 	.footer-text{
 		padding-top:20px;
@@ -515,7 +516,7 @@
 
 .generic-content{
 	h1{
-		font-weight:600;	
+		font-weight:600;
 	}
 }
 
