@@ -2181,9 +2181,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
+.blog-area .section-gap {
+  padding: 120px 0;
+}
+
 .section-gap {
   padding: 70px 0;
 }
+
 
 .section-title {
   padding-bottom: 30px;
