@@ -2525,20 +2525,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area {
-  /* color: #fff; */
-  /* padding-top: 220px; */
-  /* background: url(../img/footer-bg.jpg) center; */
-  /* background: url(../img/smoke2.png) center; */
-  /* background-size: cover; */
-  /* position: relative; */
+  color: #fff;
+  padding-top: 220px;
+  background: url(../img/footer-bg.jpg) center;
+  background-size: cover;
+  position: relative;
   background-image:
     /* top, transparent red */
     linear-gradient(
       rgba(0, 0, 0, 0.7),
       rgba(0, 0, 0, 0.7)
     ),
-    /* your image */
-    url(../img/smoke.png);
 }
 
 /* .footer-layer {
