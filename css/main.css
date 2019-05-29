@@ -2317,6 +2317,20 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 700;
 }
 
+.banner-content .primary-btn {
+  margin-right: 20px;
+}
+
+.banner-content .primary-btn.second {
+  background: #0060ff;
+  color: white;
+}
+
+.banner-content .primary-btn.third {
+  background: brown;
+  color: white;
+}
+
 @media (max-width: 991.98px) {
   .banner-content h1 {
     font-size: 36px;
