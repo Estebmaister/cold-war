@@ -2023,8 +2023,8 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   display: inline-block;
   color: #fff;
-  font-weight: 400;
-  font-size: 12px;
+  font-weight: bold;
+  font-size: 16px;
   text-transform: uppercase;
   outline: none;
 }
@@ -2049,7 +2049,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #333;
   transition: 0.3s;
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: none;
 }
 
@@ -2315,6 +2315,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-content h1 span {
   font-weight: 700;
+}
+
+.banner-content .primary-btn {
+  margin-right: 20px;
+}
+
+.banner-content .primary-btn.second {
+  background: #0060ff;
+  color: white;
+}
+
+.banner-content .primary-btn.third {
+  background: brown;
+  color: white;
 }
 
 @media (max-width: 991.98px) {
