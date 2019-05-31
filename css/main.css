@@ -2024,7 +2024,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   color: #fff;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 13px;
   text-transform: uppercase;
   outline: none;
 }
@@ -2301,7 +2301,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-content {
-  margin-top: -250px;
+  margin-top: -130px;
 }
 
 .banner-content h1 {
