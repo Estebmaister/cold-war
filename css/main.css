@@ -2318,7 +2318,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-content .primary-btn {
-  margin-right: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
 }
 
 .banner-content .primary-btn.second {
@@ -2330,6 +2331,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: brown;
   color: white;
 }
+
 
 @media (max-width: 991.98px) {
   .banner-content h1 {
@@ -2364,12 +2366,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   border: 1px solid transparent;
   color: #222;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
   border-radius: 50px;
 }
 
-.primary-btn:hover {
+.primary-btn:hover, .primary-btn.second:hover, .primary-btn.third:hover {
   border: 1px solid #fff;
   background: transparent;
   color: #fff;
@@ -2779,4 +2781,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .switch-wrap p {
   margin: 0;
+}
+
+.recorridoV img {
+  width:100%;
+  margin:0;
 }
