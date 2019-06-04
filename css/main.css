@@ -2445,6 +2445,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 30px;
 }
 
+.single-menu h3 {
+  font-size: 22px;
+  margin-right: 12px;
+}
+
 .single-menu .title-div {
   padding-bottom: 20px;
 }
