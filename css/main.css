@@ -439,7 +439,7 @@ td, th {
 }
 
 .pt-40 {
-  padding-top: 40px;
+  padding-top: 100px;
 }
 
 .pt-50 {
@@ -2024,7 +2024,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   color: #fff;
   font-weight: bold;
-  font-size: 13px;
+  font-size: 15px;
   text-transform: uppercase;
   outline: none;
 }
@@ -2723,8 +2723,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .generic-banner {
-  background-color: #b68834;
+  background: url(../projects/PROYECTOGF/csmf.gif) no-repeat center center/cover;
   text-align: center;
+  background-position: right 0px bottom 10px;
 }
 
 .generic-banner .height {
