@@ -2413,7 +2413,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .video-right {
   background: url(../img/video-bg.jpg) no-repeat center;
   background-size: cover;
-  height: 350px;
+  height: 230px;
   border-radius: 10px;
 }
 
