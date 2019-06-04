@@ -1,0 +1,6 @@
+Nombre: "Come Share my Fire"
+Autor: Rafael Tellez
+
+Descripcion: Un cuadro virtual y una corta animación en el estilo PixelArt que intenta crear el aura emocional
+que se viviría si Estados Unidos y la Unión Soviética hubieran desatado el holocausto nuclear. Salpicado con 
+detalles culturales jocosos y melancólicos.
